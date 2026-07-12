@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="extension-utc/edoko-logo.png" alt="Edoko Logo" width="250" />
+  <img src="extension-utc/logo.png" alt="Edoko Logo" width="250" />
   <h1>Edoko</h1>
   <p><b>L'essentiel de l'UTC, réimaginé et centralisé.</b></p>
 
