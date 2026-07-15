@@ -5,7 +5,7 @@
 
   <p>
     <a href="#-bient%C3%B4t-disponible">⬇️ Chrome Web Store</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="#-bient%C3%B4t-disponible">⬇️ Firefox Add-ons</a>
+    <a href="https://addons.mozilla.org/fr/firefox/addon/edoko/">⬇️ Firefox Add-ons</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ Finis les dizaines d'onglets ouverts pour consulter son emploi du temps, ses mai
 L'extension est actuellement en phase finale de développement. Elle sera très prochainement disponible en téléchargement officiel sur :
 
 - **Google Chrome** (Chrome Web Store) : *Lien à venir*
-- **Mozilla Firefox** (Firefox Add-ons) : *Lien à venir*
+- **Mozilla Firefox** (Firefox Add-ons) : [Disponible ici !](https://addons.mozilla.org/fr/firefox/addon/edoko/)
 - **Microsoft Edge** (Edge Add-ons) : *Lien à venir*
 
 ## 🛠️ À propos du projet
