@@ -35,9 +35,9 @@ Finis les dizaines d'onglets ouverts pour consulter son emploi du temps, ses mai
 
 - 🎓 **Catalogue & Avis UVWeb** : Explore le catalogue complet des UVs. Découvre les statistiques de réussite, les crédits ECTS, et lis les retours des anciens étudiants directement depuis Edoko pour faire les meilleurs choix.
 
-## 🚀 Bientôt disponible !
+## 🚀 Téléchargement
 
-L'extension est actuellement en phase finale de développement. Elle sera très prochainement disponible en téléchargement officiel sur :
+L'extension est d'ores et déjà disponible pour Firefox. Les versions pour Chrome et Edge sont en cours de validation et seront disponibles très prochainement :
 
 - **Google Chrome** (Chrome Web Store) : *Lien à venir*
 - **Mozilla Firefox** (Firefox Add-ons) : [Disponible ici !](https://addons.mozilla.org/fr/firefox/addon/edoko/)
