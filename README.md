@@ -1,58 +1,157 @@
 <div align="center">
-  <img src="logo.png" alt="Edoko Logo" width="250" />
+  <img src="logo.png" alt="Edoko Logo" width="220" />
   <h1>Edoko</h1>
-  <p><b>L'essentiel de l'UTC, réimaginé et centralisé.</b></p>
+  <p><b>L'écosystème numérique de l'UTC réinventé dans une interface unique, ultra-rapide et moderne.</b></p>
 
   <p>
-    <a href="#-bient%C3%B4t-disponible">⬇️ Chrome Web Store</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="https://addons.mozilla.org/fr/firefox/addon/edoko/">⬇️ Firefox Add-ons</a>
+    <a href="https://addons.mozilla.org/fr/firefox/addon/edoko/"><img src="https://img.shields.io/badge/Firefox_Add--ons-Disponible-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Add-ons" /></a>
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-Bientôt-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
+    <img src="https://img.shields.io/badge/Microsoft_Edge-Bientôt-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Licence-UTC_Student_Project-blue.svg" alt="Project" />
+    <img src="https://img.shields.io/badge/Sécurité-100%25_Local_&_Privé-success.svg" alt="Security" />
+    <img src="https://img.shields.io/badge/Stack-Vanilla_JS_•_Manifest_V3-yellow.svg" alt="Stack" />
   </p>
 </div>
 
 ---
 
-**Edoko** est une extension de navigateur moderne conçue pour les étudiants de l'Université de Technologie de Compiègne (UTC). Elle regroupe tous les outils numériques indispensables à la vie étudiante dans une interface unique, ultra-rapide, et au design soigné.
+Edoko est une extension de navigateur moderne conçue pour les étudiants de l'Université de Technologie de Compiègne (UTC). Elle regroupe tous les outils numériques indispensables à la vie étudiante dans une interface unique, ultra-rapide, et au design soigné.
 
 Finis les dizaines d'onglets ouverts pour consulter son emploi du temps, ses mails ou ses notes : tout est désormais accessible en un clic.
 
-## ✨ Fonctionnalités
+---
 
-- 📊 **Tableau de bord intelligent** : Un véritable centre de contrôle qui t'accueille avec un récapitulatif clair de ta journée. Tu y trouveras tes prochains cours, tes événements à venir ainsi que les dernières actualités de l'UTC.
+## 📸 Aperçu de l'Interface
 
-- 📅 **Emploi du temps synchronisé** : Ton agenda en temps réel, accessible instantanément (même sans connexion internet grâce à un système de cache intelligent.)
-
-- 🧪 **Simulateur de Cursus** : Prends de l'avance sur ton parcours académique ! Simule tes prochains semestres en ajoutant les UVs que tu souhaites faire afin de mieux organiser ton cursus et voir l'impact sur tes crédits ECTS et ton GPA . Le simulateur te permet même de prévisualiser l'emploi du temps complet de ces futurs semestres pour t'aider à construire le planning parfait et d'exporter tes brouillons.
-
-- 📈 **Dossier & Résultats** : Garde un œil sur tes performances. L'extension offre un suivi détaillé de tes résultats avec un accès direct et sécurisé à tes résultats de semestre en semestre.
-
-- 📚 **Moodle UTC** : Plus besoin de chercher tes cours. Edoko s'intègre avec Moodle pour t'offrir un accès en un clic à toutes tes ressources pédagogiques et tes TDs.
-
-- ✉️ **Webmail UTC** : Une intégration transparente de ta boîte mail universitaire directement dans l'extension pour ne manquer aucune information importante.
-
-- 🦉 **Shwet** : Un raccourci direct vers la plateforme d'entraide étudiante pour retrouver facilement tes annales, TDs, et fiches de révisions.
-
-- 💳 **PayUTC** : Gère ton compte PayUTC en un clin d'œil : consulte ton solde, recharge ton compte, effectue des virements entre étudiants, et garde une trace de tes transactions .
-
-- 🎓 **Catalogue & Avis UVWeb** : Explore le catalogue complet des UVs. Découvre les statistiques de réussite, les crédits ECTS, et lis les retours des anciens étudiants directement depuis Edoko pour faire les meilleurs choix.
-
-## 🚀 Téléchargement
-
-L'extension est d'ores et déjà disponible pour Firefox. Les versions pour Chrome et Edge sont en cours de validation et seront disponibles très prochainement :
-
-- **Google Chrome** (Chrome Web Store) : *Lien à venir*
-- **Mozilla Firefox** (Firefox Add-ons) : [Disponible ici !](https://addons.mozilla.org/fr/firefox/addon/edoko/)
-- **Microsoft Edge** (Edge Add-ons) : *Lien à venir*
-
-## 🛠️ À propos du projet
-
-Edoko est conçu pour être léger et très performant :
-- **Ultra-rapide** : L'extension est codée en pur JavaScript (Vanilla JS), garantissant un démarrage instantané sans charger de lourds frameworks.
-- **100% Local & Privé** : Tes données t'appartiennent. L'extension communique uniquement avec les serveurs officiels de l'UTC. Aucune donnée personnelle (identifiants, notes, emploi du temps) n'est envoyée ou stockée sur des serveurs tiers. Tout est sauvegardé localement sur ton propre navigateur.
-- **Sécurisé** : L'authentification passe directement par le portail CAS officiel de l'UTC, sans aucun intermédiaire.
-- **Hors-ligne** : Une mise en cache intelligente sauvegarde ton emploi du temps et tes données pour fonctionner même sans connexion internet.
-- **Design Premium** : Interface Bento UI et Glassmorphism pour une navigation moderne et agréable.
+<div align="center">
+  <img src="images/dashboard.png" alt="Edoko Dashboard Clair" width="48%" />
+  <img src="images/dashboard-dark.png" alt="Edoko Dashboard Sombre" width="48%" />
+  <p><i>Tableau de bord complet en thème clair et thème sombre : prochains cours, mails récents, solde PayUTC et actualités UTC.</i></p>
+</div>
 
 ---
+
+## ✨ Fonctionnalités Principales
+
+### 📊 1. Tableau de bord intelligent & connecté
+Un véritable centre d'accueil pour bien démarrer votre journée :
+- **Prochains cours en direct** : affichage immédiat de votre prochaine séance, de la salle et des horaires avec compte à rebours dynamique.
+- **Mails récents Webmail** : notification et lecture rapide de vos derniers courriels universitaires.
+- **Solde PayUTC en direct** : visualisez votre solde restant et vos dépenses en un clin d'œil.
+- **Fil d'actualité UTC** : restez informé des événements, conférences et annonces importantes du campus.
+- **Mode Sombre / Mode Clair natif** pour s'adapter à votre préférence visuelle à toute heure.
+
+---
+
+### 📅 2. Emploi du temps synchronisé & Export haute fidélité
+- **Accès instantané & hors-ligne** : consultez votre planning en temps réel sans rechargement lourd de page.
+- **Export en 1 clic** :
+  - **Export `.ics`** pour synchroniser directement votre planning avec Google Agenda, Apple Calendar ou Outlook.
+  - **Export Image `.png`** propre et prêt à être partagé ou imprimé.
+
 <div align="center">
-  <i>Réalisé par un étudiant de l'UTC.</i>
+  <img src="images/edt.png" alt="Emploi du temps" width="48%" />
+  <img src="images/edt-export-png-ou-ics.png" alt="Modal d'export PNG ou ICS" width="48%" />
+</div>
+
+---
+
+### 🎓 3. Cursus, Simulateurs & Calculateur de Notes
+Pilotez votre parcours académique avec précision :
+- **Suivi de Cursus** : récapitulatif détaillé de vos semestres, crédits validés (CS, TM, TSH) et calcul automatique de votre **GPA**.
+- **Simulateur de Cursus & d'Emploi du Temps** : prévoyez vos futurs semestres en ajoutant vos UVs cibles, visualisez l'impact sur vos crédits et vérifiez les chevauchements d'horaires dans l'emploi du temps simulé.
+- **Calculateur de Moyenne** : simulez vos notes d'examens (médians, finaux, TPs) pour anticiper vos résultats et sécuriser vos validations.
+
+<div align="center">
+  <img src="images/cursus.png" alt="Suivi de Cursus" width="31%" />
+  <img src="images/simulateur-cursus.png" alt="Simulateur de Cursus" width="31%" />
+  <img src="images/calculateur.png" alt="Calculateur de Notes" width="31%" />
+</div>
+
+---
+
+### 🔍 4. Le Hub UV : Tout réuni pour chaque matière
+Cliquez sur n'importe quelle UV pour ouvrir son **Hub Dédié** regroupant l'ensemble des informations et outils associés :
+
+| Vue | Description | Aperçu |
+| :--- | :--- | :---: |
+| **ℹ️ Infos & Syllabus** | Descriptif complet de l'UV, responsables pédagogiques, compétences visées, créneaux et crédits ECTS. | <img src="images/infos-popup-uv.png" width="300" /> |
+| **📚 Moodle Direct** | Accédez directement aux documents, TDs, TPs et annonces Moodle sans quitter votre session. | <img src="images/moodle-popup-uv.png" width="300" /> |
+| **✉️ Mails de l'UV** | Filtre instantané sur votre messagerie UTC pour retrouver tous les mails liés à l'UV. | <img src="images/mails-popup-uv.png" width="300" /> |
+| **🦉 Annales (Shwet)** | Accès direct aux sujets d'examens précédents et corrigés d'entraide étudiante. | <img src="images/annales-popup-uv.png" width="300" /> |
+| **📊 Statistiques de Réussite** | Taux d'admission, répartition des notes des semestres précédents et historique. | <img src="images/stats-popup-uv.png" width="300" /> |
+| **💬 Avis Étudiants** | Retours d'expérience, niveau de difficulté ressenti et conseils des anciens étudiants. | <img src="images/avis-popup-avis.png" width="300" /> |
+| **👥 Effectif & Groupes** | Liste des étudiants inscrits par groupe de TD/TP pour faciliter les travaux d'équipe. | <img src="images/effectif-popup-uv.png" width="300" /> |
+| **👤 Trombinoscope** | Vue visuelle des étudiants de l'UV pour identifier facilement vos camarades de promo. | <img src="images/trombi-popup-uv.png" width="300" /> |
+| **📝 Évaluations & Barèmes** | Coefficients des épreuves, dates prévues et suivi des notes publiées. | <img src="images/evaluations-popup-uv.png" width="300" /> |
+| **📄 Copies Corrigées (Wexam)** | Consultation et téléchargement direct de vos copies d'examens numérisées. | <img src="images/copies-popup-uv.png" width="300" /> |
+
+---
+
+### 📖 5. Catalogue UV & Recherche Avancée
+- Recherche instantanée par code UV, intitulé ou mots-clés.
+- Filtres par catégorie : **CS**, **TM**, **TSH**, filières et semestres (Automne / Printemps).
+- Fiches de présentation synthétiques avec accès aux avis étudiants.
+
+<div align="center">
+  <img src="images/catalogue-uv.png" alt="Catalogue UV" width="80%" />
+</div>
+
+---
+
+### 💳 6. PayUTC Intégré
+- Consultation de votre solde en temps réel.
+- Historique complet de vos dernières transactions au Pic'Asso, restos et cafétérias.
+- Accès rapide aux fonctions de rechargement et transferts d'argent entre étudiants.
+
+<div align="center">
+  <img src="images/payutc.png" alt="PayUTC" width="60%" />
+</div>
+
+---
+
+### ⚡ 7. Tous vos outils UTC centralisés
+Accédez d'un simple geste aux services essentiels du quotidien universitaire :
+- 🎓 **Moodle UTC** (Pédagogie & Cours)
+- 💳 **PayUTC** (Paiements étudiants)
+- 🦉 **Shwet** (Plateforme de partage & annales)
+- 📝 **Wexam** (Copies & examens dématérialisés)
+- 📧 **Webmail UTC** (Messagerie étudiante)
+- 📒 **Notebook UTC** (Prise de notes & ressources)
+
+---
+
+## 🔒 Confidentialité & Sécurité : 100% Local
+
+La protection de votre vie privée est le principe fondamental d'Edoko :
+- 🛡️ **Aucun serveur intermédiaire** : Vos identifiants, notes, courriels et emplois du temps ne transitent par **aucun serveur tiers**.
+- 🔑 **Authentification Officielle** : L'authentification s'effectue directement avec le portail officiel **CAS de l'UTC**.
+- 💾 **Stockage Local** : Vos données sont conservées exclusivement dans le stockage local sécurisé de votre navigateur.
+- ⚡ **Cache Intelligent & Hors-ligne** : Vous pouvez consulter votre emploi du temps et vos informations même sans connexion internet active.
+
+---
+
+## 🛠️ Stack Technique
+
+- **Moteur** : Pur JavaScript moderne (Vanilla JS), conçu pour être ultra-léger et démarrer instantanément.
+- **Architecture** : Standard **WebExtensions Manifest V3**, compatible avec les navigateurs Chromium et Firefox.
+- **Design System** : Bento Grid UI, Glassmorphism, animations fluides et thèmes dynamiques (Light / Dark).
+
+---
+
+## 🚀 Téléchargement & Installation
+
+| Navigateur | Statut | Lien |
+| :--- | :---: | :--- |
+| **Mozilla Firefox** | ✅ Disponible | [Installer sur Firefox Add-ons](https://addons.mozilla.org/fr/firefox/addon/edoko/) |
+| **Google Chrome** | ⏳ Bientôt | *Validation Chrome Web Store en cours* |
+| **Microsoft Edge** | ⏳ Bientôt | *Validation Edge Add-ons en cours* |
+
+---
+
+<div align="center">
+  <p>Fait avec passion pour la communauté étudiante de l'<b>Université de Technologie de Compiègne (UTC)</b>.</p>
 </div>
