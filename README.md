@@ -46,7 +46,27 @@ Un véritable centre d'accueil pour bien démarrer votre journée :
 
 ---
 
-### 📅 2. Emploi du temps synchronisé & Export haute fidélité
+### ⚡ 2. Spotko : La recherche universelle façon Spotlight / Raycast (`⌘K`)
+Une palette de commandes ultra-rapide accessible à tout moment via le raccourci **`⌘K`** (Mac) ou **`Ctrl+K`** (Windows) ou simplement la touche **`/`** :
+- **Filtres et scopes intelligents** :
+  - `mails:INF2` : ouvre instantanément la section mails du Hub UV de l'UV INF2.
+  - `mails:travail de groupe` : filtre et recherche en direct parmi tous vos e-mails reçus sur le Webmail UTC.
+  - `moodle:SY02` : saute directement dans l'espace Moodle avec les chapitres et devoirs.
+  - `annales:SR01` : accès immédiat aux sujets d'examens passés et corrections Shwet.
+  - `stats:IA02` : consultation du taux de réussite et des retours d'étudiants.
+  - `evals:NF16` : barèmes officiels et suivi des épreuves.
+  - `copies:LO21` : téléchargement direct de vos copies corrigées Wexam.
+  - `salle:B104` : planning des cours se déroulant dans la salle et statut d'occupation en direct.
+  - `payutc:` : affichage de votre solde actuel, historique et virements rapides.
+- **Recherche universelle intelligente** : tapez n'importe quelle UV ou terme (ex: `algorithmique`, `planning`, `export`) pour lancer l'action en une touche de clavier.
+
+<div align="center">
+  <img src="images/spotko.png" alt="Spotko Command Palette Edoko" width="75%" />
+</div>
+
+---
+
+### 📅 3. Emploi du temps synchronisé & Export haute fidélité
 - **Accès instantané & hors-ligne** : consultez votre planning en temps réel sans rechargement lourd de page.
 - **Export en 1 clic** :
   - **Export `.ics`** pour synchroniser directement votre planning avec Google Agenda, Apple Calendar ou Outlook.
@@ -59,7 +79,7 @@ Un véritable centre d'accueil pour bien démarrer votre journée :
 
 ---
 
-### 🎓 3. Cursus, Simulateurs & Calculateur de Notes
+### 🎓 4. Cursus, Simulateurs & Calculateur de Notes
 Pilotez votre parcours académique avec précision :
 - **Suivi de Cursus** : récapitulatif détaillé de vos semestres, crédits validés (CS, TM, TSH) et calcul automatique de votre **GPA**.
 - **Simulateur de Cursus & d'Emploi du Temps** : prévoyez vos futurs semestres en ajoutant vos UVs cibles, visualisez l'impact sur vos crédits et vérifiez les chevauchements d'horaires dans l'emploi du temps simulé.
@@ -73,7 +93,7 @@ Pilotez votre parcours académique avec précision :
 
 ---
 
-### 🔍 4. Le Hub UV : Tout réuni pour chaque matière
+### 🔍 5. Le Hub UV : Tout réuni pour chaque matière
 Cliquez sur n'importe quelle UV pour ouvrir son **Hub Dédié** regroupant l'ensemble des informations et outils associés :
 
 | Vue | Description | Aperçu |
@@ -91,7 +111,7 @@ Cliquez sur n'importe quelle UV pour ouvrir son **Hub Dédié** regroupant l'ens
 
 ---
 
-### 📖 5. Catalogue UV & Recherche Avancée
+### 📖 6. Catalogue UV & Recherche Avancée
 - Recherche instantanée par code UV, intitulé ou mots-clés.
 - Filtres par catégorie : **CS**, **TM**, **TSH**, filières et semestres (Automne / Printemps).
 - Fiches de présentation synthétiques avec accès aux avis étudiants.
@@ -102,7 +122,7 @@ Cliquez sur n'importe quelle UV pour ouvrir son **Hub Dédié** regroupant l'ens
 
 ---
 
-### 💳 6. PayUTC Intégré
+### 💳 7. PayUTC Intégré
 - Consultation de votre solde en temps réel.
 - Historique complet de vos dernières transactions au Pic'Asso, restos et cafétérias.
 - Accès rapide aux fonctions de rechargement et transferts d'argent entre étudiants.
@@ -113,7 +133,7 @@ Cliquez sur n'importe quelle UV pour ouvrir son **Hub Dédié** regroupant l'ens
 
 ---
 
-### ⚡ 7. Tous vos outils UTC centralisés
+### ⚡ 8. Tous vos outils UTC centralisés
 Accédez d'un simple geste aux services essentiels du quotidien universitaire :
 - 🎓 **Moodle UTC** (Pédagogie & Cours)
 - 💳 **PayUTC** (Paiements étudiants)
