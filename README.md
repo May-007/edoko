@@ -4,9 +4,14 @@
   <p><b>L'écosystème numérique de l'UTC réinventé dans une interface unique, ultra-rapide et moderne.</b></p>
 
   <p>
+    <a href="https://edoko-utc.vercel.app"><img src="https://img.shields.io/badge/Site_Web-edoko--utc.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Web" /></a>
     <a href="https://addons.mozilla.org/fr/firefox/addon/edoko/"><img src="https://img.shields.io/badge/Firefox_Add--ons-Disponible-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Add-ons" /></a>
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Bientôt-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Web Store" />
     <img src="https://img.shields.io/badge/Microsoft_Edge-Bientôt-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" />
+  </p>
+
+  <p>
+    <a href="https://edoko-utc.vercel.app"><b>🌐 Découvrir le site vitrine & tester la démo interactive →</b></a>
   </p>
 
   <p>
@@ -162,10 +167,11 @@ La protection de votre vie privée est le principe fondamental d'Edoko :
 
 ---
 
-## 🚀 Téléchargement & Installation
+## 🚀 Téléchargement & Liens
 
-| Navigateur | Statut | Lien |
+| Plateforme / Ressource | Statut | Lien |
 | :--- | :---: | :--- |
+| **🌐 Site Web & Démo** | ✨ En ligne | [Visiter edoko-utc.vercel.app](https://edoko-utc.vercel.app) |
 | **Mozilla Firefox** | ✅ Disponible | [Installer sur Firefox Add-ons](https://addons.mozilla.org/fr/firefox/addon/edoko/) |
 | **Google Chrome** | ⏳ Bientôt | *Validation Chrome Web Store en cours* |
 | **Microsoft Edge** | ⏳ Bientôt | *Validation Edge Add-ons en cours* |
